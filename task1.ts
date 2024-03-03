@@ -2,4 +2,4 @@
 let personName: string = "Ahmer";
 
 // Print a message to that person
-console.log(`Hello ${personName}, would you like to learn some Python today?`);
+console.log(`Hello ${personName}, would you like to learn some TypeScript today?`);
